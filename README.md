@@ -264,7 +264,7 @@ int main(){
   Metode penyelesaian heuristic 2 adalah metode penyelesaian dengan menggunakan fungsi h2 dimana h2 merupakan total penjumlahan dari jarak atau pergeseran tiap kotak dari letaknya yang sesuai dengan goal state (space kosong '0' tidak dihitung). Maka untuk tiap satu state memiliki nilai h2 tersendiri. Penelusuran untuk tiap node menggunakan pertimbangan nilai h2, dimana nilai h2 yang lebih kecil lah yang dipilih karena dianggap lebih medekati goal state.
 
 File:
--<a href="https://github.com/rddmoon/AI2_Informed_Search/blob/master/8-puzzle-heuristic/8-puzzle-h2.cpp">8-puzzle-h2.cpp</a>
+- <a href="https://github.com/rddmoon/AI2_Informed_Search/blob/master/8-puzzle-heuristic/8-puzzle-h2.cpp">8-puzzle-h2.cpp</a>
 
 ## Penjelasan
 Ini merupakan class node.
